@@ -1,27 +1,30 @@
-[hr]
-[center][color=red][size=16pt][b]PHPBB FONT SIZE BBCODE v2.4[/b][/size][/color]
-[url=http://www.simplemachines.org/community/index.php?action=profile;u=253913][b]By Dougiefresh[/b][/url] -> [url=http://custom.simplemachines.org/mods/index.php?mod=3714]Link to Mod[/url]
-[/center]
-[hr]
+--------
 
-[color=blue][b][size=12pt][u]Introduction[/u][/size][/b][/color]
+# PHPBB FONT SIZE BBCODE v2.4
+
+[**By Dougiefresh**](http://www.simplemachines.org/community/index.php?action=profile;u=253913) -> [Link to Mod](http://custom.simplemachines.org/mods/index.php?mod=3714)
+
+--------
+
+## Introduction
 This modification adds the phpBB-style font size BBcode to the forum, where the parameter in the size bbcode is a percentage from 10% to 999% (without the percentage sign).
 
 This code allows users to use size syntax like this:
-[code][size=150][/size]
-[size=150%][/size][/code]
+    ## [/size]
+    [size=150%]
 
-[color=blue][b][size=12pt][u]Admin Settings[/u][/size][/b][/color]
+## Admin Settings
 There are no admin settings to this mod.  To disable, you must uninstall this mod.
 
-[color=blue][b][size=12pt][u]Compatibility Notes[/u][/size][/b][/color]
+## Compatibility Notes
 This mod was tested on SMF 2.0.9, but should work on SMF 2.1 Beta 1, as well as SMF 2.0 and up.  SMF 1.x is not and will not be supported.
 
-[color=blue][b][size=12pt][u]Changelog[/u][/size][/b][/color]
-The changelog can be viewed at [url=http://www.xptsp.com/board/free-modifications/phpbb-font-size-bbcode/?tab=1]XPtsp.com[/url].
+## Changelog
+The changelog can be viewed at [XPtsp.com](http://www.xptsp.com/board/free-modifications/phpbb-font-size-bbcode/?tab=1).
 
-[color=blue][b][size=12pt][u]License[/u][/size][/b][/color]
+## License
 Copyright (c) 2015 - 2018, Douglas Orend
+
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:

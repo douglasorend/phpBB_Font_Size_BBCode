@@ -1,3 +1,7 @@
+v1.3 - October 23rd, 2018
+o No functionality change.
+o Updated documentation to point to new website.
+
 v2.3 - April 4th, 2015
 o Updated for SMF 2.1 Beta 1
 

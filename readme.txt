@@ -18,11 +18,16 @@ There are no admin settings to this mod.  To disable, you must uninstall this mo
 This mod was tested on SMF 2.0.4, but should work on SMF 2.0 and up.  SMF 1.1 is not and will not be supported, so please don't ask.
 
 [color=blue][b][size=12pt][u]Changelog[/u][/size][/b][/color]
-v1.0 - May 21, 2013
-o Initial Release of the mod
+[quote]
+[b][u]v2.1 - December 6th, 2014[/u][/b]
+o Added code to disable creation of the validation code if BBCode is disabled.
 
-v2.0 - June 10, 2013
+[b][u]v2.0 - June 10, 2013[/u][/b]
 o Modification to allow usage with percentage signs in the parameter part (aka: [b]150%[/b] instead of [b]150[/b])
+
+[b][u]v1.0 - May 21, 2013[/u][/b]
+o Initial Release of the mod
+[/quote]
 
 [hr]
 [url=http://creativecommons.org/licenses/by/3.0][img]http://i.creativecommons.org/l/by/3.0/80x15.png[/img][/url]
